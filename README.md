@@ -1,9 +1,3 @@
-Perfect ✅ — adding a **clear and professional README.md** will help you stand out because it shows structure and communication clarity (which they *explicitly* said they value).
-
-Here’s a ready-to-use **README.md** you can copy into your repo — it’s short, clean, and fits your project perfectly:
-
----
-
 ## 🖼️ Online Photo Printing Demo
 
 ### 📌 Objective
