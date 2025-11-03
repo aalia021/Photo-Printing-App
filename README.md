@@ -9,8 +9,7 @@ It allows users to **upload photos**, **select print sizes**, and **calculate th
 
 ### 🚀 Live Demo
 
-🔗 **[View Live on Vercel](https://your-vercel-demo-link.vercel.app)**
-💻 **[GitHub Repository](https://github.com/your-username/photo-print-demo)**
+🔗 **[View Live on Vercel](https://photo-printing-app-ten.vercel.app/)**
 
 ---
 
@@ -91,10 +90,8 @@ It allows users to **upload photos**, **select print sizes**, and **calculate th
 ### 🙌 Author
 
 **Aalia Khan**
-Frontend Developer | React & Next.js Enthusiast
-📧 [[your.email@example.com](mailto:your.email@example.com)]
-🌐 [your-portfolio-link.com]
+Fullstack Developer | React & Next.js Enthusiast
+📧 [[aalia9209@gmail.com](mailto:aalia9209@gmail.com)]
 
 ---
 
-Would you like me to tailor the **README’s “Author” and “Demo links” section** with your actual GitHub/Vercel links so you can just paste and go?
